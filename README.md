@@ -2,12 +2,12 @@
 #Superstore Sales Performance Dashboard
 This project presents a Power BI dashboard built using the Superstore dataset to help visualize and analyze sales, profit, and discount trends across various business dimensions.
 
-#🔧 Tools Used
+# 🔧 Tools Used
 Power BI – for data visualization and dashboard creation
 
 Microsoft Excel (CSV) – data source (Superstore Sales data)
 
-#🎯 Objectives
+# 🎯 Objectives
 Track overall sales and profit performance
 
 Analyze sales by product category, region, and time
@@ -18,7 +18,7 @@ Discover how discounts affect profit margins
 
 Empower stakeholders with data-driven insights
 
-#📌 Key Visuals
+# 📌 Key Visuals
 Bar Chart – Profit by Category
 
 Line Chart – Monthly Sales Trend
@@ -33,7 +33,7 @@ Table – Top Products by Sales
 
 Slicers – Category, Region, and Date filters
 
-#🔍 Insights
+# 🔍 Insights
 📈 Technology leads in profit contribution
 
 📆 Sales peak in September and December
@@ -44,7 +44,7 @@ Slicers – Category, Region, and Date filters
 
 🪑 Phones and Chairs are top-selling items
 
-#✅ Conclusion
+# ✅ Conclusion
 The dashboard offers a clear, interactive view of the business, enabling decision-makers to:
 
 Identify growth opportunities
